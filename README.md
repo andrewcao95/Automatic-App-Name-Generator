@@ -6,4 +6,4 @@
 
 *Team member: Hailong Huang (Institute of Software, CAS), Lu Cao (Peking University), Jiansong Li (Institute of Computing Technology, CAS)*
 
-[Poster](./poster.jpg)
+![Poster](./poster.jpg)
